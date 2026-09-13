@@ -41,3 +41,5 @@ Command line help:
 ```cmd
 python blocker.py --help
 ```
+
+<!-- last-checked: 2026-09-13 -->
