@@ -42,4 +42,4 @@ Command line help:
 python blocker.py --help
 ```
 
-<!-- last-checked: 2026-09-17 -->
+<!-- last-checked: 2026-09-18 -->
